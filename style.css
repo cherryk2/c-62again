@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+.menu1{
+    list-style: none;
+    color:darkgoldenrod;
+    position: fixed;
+    background-color: crimson;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10px;
+}
+.links{
+    display:inline;
+    font-size:20px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.img2{
+    width:250px;
+    height: 250px;
+}
+#mycarousel{
+    background-color: darkorange;
+}
+#mycarousel img{
+    height: 350px;
+    width: 350px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: cornsilk;
+    font-size:20px;
+}
